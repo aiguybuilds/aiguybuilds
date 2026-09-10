@@ -1,10 +1,6 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
-<a href="https://github.com/aiguybuilds">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=09131B&height=160&section=header&animation=fadeIn" alt="header" />
-</a>
-
 <!-- ===================== NAME (guaranteed Montserrat) ===================== -->
 <a href="https://github.com/aiguybuilds">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=42&duration=1&pause=999999&color=FF652F&center=true&vCenter=true&repeat=false&width=600&height=60&lines=Syed+Wasif+Shah" alt="Name" />
@@ -114,22 +110,34 @@ AI-powered RAG voice system for intelligent call handling and real-time knowledg
 <tr><td colspan="2"><br/></td></tr>
 <tr>
 <td><b>AI / LLM Tools</b></td>
-<td><img src="/claude.svg" width="48" height="48"/> <img src="/anthropic.svg" width="48" height="48"/> <img src="/langchain.svg" width="48" height="48"/> <img src="/crewai.svg" width="48" height="48"/> <img src="/huggingface.svg" width="48" height="48"/></td>
+<td><img src="icons/claude.svg" width="48" height="48"/> <img src="icons/anthropic.svg" width="48" height="48"/> <img src="icons/langchain.svg" width="48" height="48"/> <img src="icons/crewai.svg" width="48" height="48"/> <img src="icons/huggingface.svg" width="48" height="48"/></td>
 </tr>
 <tr>
 <td><b>Automation & CRM</b></td>
-<td><img src="/zapier.svg" width="48" height="48"/> <img src="/jira.svg" width="48" height="48"/> <img src="/hubspot.svg" width="48" height="48"/> <img src="/confluence.svg" width="48" height="48"/></td>
+<td><img src="icons/zapier.svg" width="48" height="48"/> <img src="icons/jira.svg" width="48" height="48"/> <img src="icons/hubspot.svg" width="48" height="48"/> <img src="icons/confluence.svg" width="48" height="48"/></td>
 </tr>
 <tr>
 <td><b>Voice, Vision & Data</b></td>
-<td><img src="/airtable.svg" width="48" height="48"/> <img src="/kaggle.svg" width="48" height="48"/> <img src="/jupyter.svg" width="48" height="48"/> <img src="/googlecolab.svg" width="48" height="48"/> <img src="/gradio.svg" width="48" height="48"/></td>
+<td><img src="icons/airtable.svg" width="48" height="48"/> <img src="icons/kaggle.svg" width="48" height="48"/> <img src="icons/jupyter.svg" width="48" height="48"/> <img src="icons/googlecolab.svg" width="48" height="48"/> <img src="icons/gradio.svg" width="48" height="48"/></td>
+</tr>
+<tr>
+<td><b>Automation Platforms</b></td>
+<td><img src="icons/n8n.svg" width="48" height="48"/> <img src="icons/make.svg" width="48" height="48"/></td>
+</tr>
+<tr>
+<td><b>CRM & Comms</b></td>
+<td><img src="icons/zoho.svg" width="48" height="48"/> <img src="icons/mailgun.svg" width="48" height="48"/></td>
+</tr>
+<tr>
+<td><b>ML & Vector Tools</b></td>
+<td><img src="icons/streamlit.svg" width="48" height="48"/> <img src="icons/qwen.svg" width="48" height="48"/> <img src="icons/qdrant.svg" width="48" height="48"/> <img src="icons/langgraph.svg" width="48" height="48"/></td>
 </tr>
 </table>
 
 <br/>
 
 <div align="center">
-<sub><i>Also in the toolbox (no dedicated logo available)</i>   OpenAI  ·  Salesforce  ·  Twilio  ·  SendGrid  ·  n8n  ·  Make.com  ·  ManyChat  ·  Bland AI  ·  GoHighLevel  ·  Marketo  ·  Zoho CRM  ·  Pipedrive  ·  Close.com  ·  Shopify  ·  WooCommerce  ·  ClickFunnels  ·  Mailgun  ·  Unsloth  ·  Promptfoo  ·  Streamlit  ·  Whisper  ·  Stable Diffusion  ·  Power BI  ·  Llama  ·  Qwen  ·  GTTS  ·  DALL·E  ·  Pinecone  ·  Qdrant  ·  LangGraph  ·  Vertex AI  ·  Google Data Studio</sub>
+<sub><i>Also in the toolbox (no dedicated logo available)</i>   OpenAI  ·  Salesforce  ·  Twilio  ·  SendGrid  ·  ManyChat  ·  Bland AI  ·  GoHighLevel  ·  Marketo  ·  Pipedrive  ·  Close.com  ·  ClickFunnels  ·  Unsloth  ·  Promptfoo  ·  Whisper  ·  Stable Diffusion  ·  Power BI  ·  Llama  ·  GTTS  ·  DALL·E  ·  Pinecone  ·  Vertex AI  ·  Google Data Studio</sub>
 </div>
 
 <!-- ===================== FOOTER ===================== -->
