@@ -114,22 +114,12 @@ AI-powered RAG voice system for intelligent call handling and real-time knowledg
 </div>
 
 <!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aiguybuilds&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=aiguybuilds&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aiguybuilds&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false&border_color=00d4ff&title_color=00d4ff&icon_color=7c3aed" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&border_color=00d4ff&title_color=00d4ff" alt="top langs" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&border=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&sideLabels=00d4ff" alt="streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=1a1b27&color=00d4ff&line=7c3aed&point=ff6b6b&area=true&hide_border=false&custom_title=Syed%27s%20Contribution%20Graph" alt="activity graph" />
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- ===================== FOOTER ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=twinkling&fontColor=00d4ff" alt="footer" />
