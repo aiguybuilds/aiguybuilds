@@ -19,7 +19,7 @@
   <a href="mailto:syeddnai@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.upwork.com/freelancers/YOUR_UPWORK_ID">
+  <a href="[https://www.upwork.com/freelancers/YOUR_UPWORK_ID](https://www.upwork.com/freelancers/aiautomationexperts)">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
 </p>
@@ -27,7 +27,7 @@
 </div>
 
 <!-- ===================== WHOAMI ===================== -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  `whoami`
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  `Who Am I`
 
 ```python
 class SyedWasifShah:
@@ -133,11 +133,6 @@ AI-powered RAG voice system for intelligent call handling and real-time knowledg
 </tr>
 </table>
 
-<br/>
-
 <div align="center">
-<sub><i>Also in the toolbox (no dedicated logo available)</i>   OpenAI  ·  Salesforce  ·  Twilio  ·  SendGrid  ·  ManyChat  ·  Bland AI  ·  GoHighLevel  ·  Marketo  ·  Pipedrive  ·  Close.com  ·  ClickFunnels  ·  Unsloth  ·  Promptfoo  ·  Whisper  ·  Stable Diffusion  ·  Power BI  ·  Llama  ·  GTTS  ·  DALL·E  ·  Pinecone  ·  Vertex AI  ·  Google Data Studio</sub>
+<sub>   OpenAI  ·  Salesforce  ·  Twilio  ·  SendGrid  ·  ManyChat  ·  Bland AI  ·  Unsloth  ·  Promptfoo  ·  Whisper  ·  Stable Diffusion  ·  Power BI  ·  Llama  ·  GTTS  ·  DALL·E  ·  Pinecone  ·  Vertex AI  ·  Google Data Studio</sub>
 </div>
-
-<!-- ===================== FOOTER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=twinkling&fontColor=00d4ff" alt="footer" />
