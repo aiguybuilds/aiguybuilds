@@ -16,10 +16,6 @@
   <a href="https://www.upwork.com/freelancers/YOUR_UPWORK_ID">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0d1117&style=for-the-badge&labelColor=00d4ff" alt="Profile Views" />
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=0d1117&labelColor=7c3aed" alt="Followers" />
-  </a>
 </p>
 
 </div>
