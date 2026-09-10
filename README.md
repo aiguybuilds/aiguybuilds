@@ -119,7 +119,7 @@ AI-powered RAG voice system for intelligent call handling and real-time knowledg
 <div align="center">
 
 <sub><b>AI / LLM Tools</b></sub><br/>
-<img src="icons/claude.svg" width="52" height="50"/> <img src="icons/anthropic.svg" width="52" height="50"/> <img src="icons/langchain.svg" width="52" height="50"/> <img src="icons/crewai.svg" width="48" height="50"/> <img src="icons/huggingface.svg" width="48" height="50"/>
+<img src="icons/claude.svg" width="48" height="50"/> <img src="icons/anthropic.svg" width="48" height="50"/> <img src="icons/langchain.svg" width="48" height="50"/> <img src="icons/crewai.svg" width="48" height="50"/> <img src="icons/huggingface.svg" width="48" height="50"/>
 <br/><br/>
 
 <sub><b>Automation & CRM</b></sub><br/>
