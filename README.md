@@ -1,14 +1,9 @@
-<!-- ===================== HEADER BANNER ===================== -->
-<div align="center">
+<!-- ===================== HEADER BANNER ===================== --> 
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Syed%20Wasif%20Shah&fontSize=50&fontColor=00d4ff&fontFamily=Montserrat&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Agentic%20Systems%20%C2%B7%20Automation&descAlignY=62&descAlign=50&descSize=20&descColor=a8d8f0" alt="header" />
-</a>
-
-<!-- ===================== TYPING SVG ===================== -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=720&height=52&lines=AI+Engineer+%26+Automation+Developer;LangChain+%7C+LangGraph+%7C+CrewAI+%7C+RAG+Systems;Agentic+Workflows+%7C+Voice+AI+%7C+GenAI+Video;Python+%7C+FastAPI+%7C+Azure+%7C+AWS+%7C+Docker;I+build+AI+products+that+ship+to+production;Top-Rated+Upwork+AI+%2F+Automation+Engineer" alt="Typing SVG" />
-</a>
+<div align="center"> <a href="https://github.com/aiguybuilds"> <img src="https://capsule-render.vercel.app/api?type=venom&color=09131B&height=160&section=header&animation=fadeIn" alt="header" /> </a> <!-- ===================== NAME (guaranteed Montserrat) ===================== --> <a href="https://github.com/aiguybuilds"> <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=42&duration=1&pause=999999&color=FF652F&center=true&vCenter=true&repeat=false&width=600&height=60&lines=Syed+Wasif+Shah" alt="Name" /> </a> 
+  
+  <!-- ===================== TYPING SVG ===================== --> 
+  <a href="https://github.com/aiguybuilds"> <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&duration=2800&pause=900&color=FFE400&center=true&vCenter=true&repeat=true&width=720&height=45&lines=AI+Engineer+%26+Automation+Developer;LangChain+%7C+LangGraph+%7C+CrewAI+%7C+RAG+Systems;Agentic+Workflows+%7C+Voice+AI+%7C+GenAI+Video;Python+%7C+FastAPI+%7C+Azure+%7C+AWS+%7C+Docker;I+build+AI+products+that+ship+to+production;Top-Rated+Upwork+AI+%2F+Automation+Engineer" alt="Typing SVG" /> </a>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
 <p>
