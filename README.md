@@ -113,13 +113,5 @@ AI-powered RAG voice system for intelligent call handling and real-time knowledg
 
 </div>
 
-<!-- ===================== GITHUB STATS ===================== -->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aiguybuilds&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=aiguybuilds&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aiguybuilds&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <!-- ===================== FOOTER ===================== -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=twinkling&fontColor=00d4ff" alt="footer" />
