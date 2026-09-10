@@ -119,19 +119,19 @@ AI-powered RAG voice system for intelligent call handling and real-time knowledg
 <div align="center">
 
 <sub><b>AI / LLM Tools</b></sub><br/>
-<img src="icons/claude.svg" width="64" height="64"/> <img src="icons/anthropic.svg" width="64" height="64"/> <img src="icons/langchain.svg" width="64" height="64"/> <img src="icons/crewai.svg" width="64" height="64"/> <img src="icons/huggingface.svg" width="64" height="64"/>
+<img src="/claude.svg" width="64" height="64"/> <img src="/anthropic.svg" width="64" height="64"/> <img src="/langchain.svg" width="64" height="64"/> <img src="/crewai.svg" width="64" height="64"/> <img src="/huggingface.svg" width="64" height="64"/>
 <br/><br/>
 
 <sub><b>Automation & CRM</b></sub><br/>
-<img src="icons/zapier.svg" width="64" height="64"/> <img src="icons/jira.svg" width="64" height="64"/> <img src="icons/hubspot.svg" width="64" height="64"/> <img src="icons/confluence.svg" width="64" height="64"/>
+<img src="/zapier.svg" width="64" height="64"/> <img src="/jira.svg" width="64" height="64"/> <img src="/hubspot.svg" width="64" height="64"/> <img src="/confluence.svg" width="64" height="64"/>
 <br/><br/>
 
 <sub><b>E-Commerce & Comms</b></sub><br/>
-<img src="icons/shopify.svg" width="64" height="64"/> <img src="icons/woocommerce.svg" width="64" height="64"/>
+<img src="/shopify.svg" width="64" height="64"/> <img src="/woocommerce.svg" width="64" height="64"/>
 <br/><br/>
 
 <sub><b>Voice, Vision & Data</b></sub><br/>
-<img src="icons/airtable.svg" width="64" height="64"/> <img src="icons/kaggle.svg" width="64" height="64"/> <img src="icons/jupyter.svg" width="64" height="64"/> <img src="icons/googlecolab.svg" width="64" height="64"/> <img src="icons/gradio.svg" width="64" height="64"/>
+<img src="/airtable.svg" width="64" height="64"/> <img src="/kaggle.svg" width="64" height="64"/> <img src="/jupyter.svg" width="64" height="64"/> <img src="/googlecolab.svg" width="64" height="64"/> <img src="/gradio.svg" width="64" height="64"/>
 
 </div>
 
