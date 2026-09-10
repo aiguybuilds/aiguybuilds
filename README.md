@@ -119,40 +119,26 @@ AI-powered RAG voice system for intelligent call handling and real-time knowledg
 <div align="center">
 
 <sub><b>AI / LLM Tools</b></sub><br/>
-<img src="https://img.shields.io/badge/Claude-09131B?style=flat-square&logo=claude&logoColor=FF652F" height="26"/> <img src="https://img.shields.io/badge/OpenAI-09131B?style=flat-square&logo=openai&logoColor=FF652F" height="26"/> <img src="https://img.shields.io/badge/Anthropic-09131B?style=flat-square&logo=anthropic&logoColor=FF652F" height="26"/> <img src="https://img.shields.io/badge/LangChain-09131B?style=flat-square&logo=langchain&logoColor=FF652F" height="26"/> <img src="https://img.shields.io/badge/CrewAI-09131B?style=flat-square&logo=crewai&logoColor=FF652F" height="26"/> <img src="https://img.shields.io/badge/Hugging_Face-09131B?style=flat-square&logo=huggingface&logoColor=FF652F" height="26"/>
-<br/>
-<img src="https://img.shields.io/badge/Unsloth-09131B?style=flat-square&color=FF652F" height="26"/> <img src="https://img.shields.io/badge/Promptfoo-09131B?style=flat-square&color=FF652F" height="26"/> <img src="https://img.shields.io/badge/ManyChat-09131B?style=flat-square&color=FF652F" height="26"/> <img src="https://img.shields.io/badge/Bland_AI-09131B?style=flat-square&color=FF652F" height="26"/>
+<img src="icons/claude.svg" width="64" height="64"/> <img src="icons/anthropic.svg" width="64" height="64"/> <img src="icons/langchain.svg" width="64" height="64"/> <img src="icons/crewai.svg" width="64" height="64"/> <img src="icons/huggingface.svg" width="64" height="64"/>
 <br/><br/>
 
-<sub><b>Automation & iPaaS</b></sub><br/>
-<img src="https://img.shields.io/badge/Zapier-09131B?style=flat-square&logo=zapier&logoColor=FFE400" height="26"/> <img src="https://img.shields.io/badge/Jira-09131B?style=flat-square&logo=jira&logoColor=FFE400" height="26"/>
-<br/>
-<img src="https://img.shields.io/badge/Make.com-09131B?style=flat-square&color=FFE400" height="26"/> <img src="https://img.shields.io/badge/N8N-09131B?style=flat-square&color=FFE400" height="26"/> <img src="https://img.shields.io/badge/GoHighLevel-09131B?style=flat-square&color=FFE400" height="26"/> <img src="https://img.shields.io/badge/Marketo-09131B?style=flat-square&color=FFE400" height="26"/>
-<br/><br/>
-
-<sub><b>CRM & Enterprise</b></sub><br/>
-<img src="https://img.shields.io/badge/Salesforce-09131B?style=flat-square&logo=salesforce&logoColor=00d4ff" height="26"/> <img src="https://img.shields.io/badge/HubSpot-09131B?style=flat-square&logo=hubspot&logoColor=00d4ff" height="26"/> <img src="https://img.shields.io/badge/Confluence-09131B?style=flat-square&logo=confluence&logoColor=00d4ff" height="26"/>
-<br/>
-<img src="https://img.shields.io/badge/Zoho_CRM-09131B?style=flat-square&color=00d4ff" height="26"/> <img src="https://img.shields.io/badge/Pipedrive-09131B?style=flat-square&color=00d4ff" height="26"/> <img src="https://img.shields.io/badge/Close.com-09131B?style=flat-square&color=00d4ff" height="26"/>
+<sub><b>Automation & CRM</b></sub><br/>
+<img src="icons/zapier.svg" width="64" height="64"/> <img src="icons/jira.svg" width="64" height="64"/> <img src="icons/hubspot.svg" width="64" height="64"/> <img src="icons/confluence.svg" width="64" height="64"/>
 <br/><br/>
 
 <sub><b>E-Commerce & Comms</b></sub><br/>
-<img src="https://img.shields.io/badge/Shopify-09131B?style=flat-square&logo=shopify&logoColor=95E064" height="26"/> <img src="https://img.shields.io/badge/Twilio-09131B?style=flat-square&logo=twilio&logoColor=95E064" height="26"/> <img src="https://img.shields.io/badge/SendGrid-09131B?style=flat-square&logo=sendgrid&logoColor=95E064" height="26"/>
-<br/>
-<img src="https://img.shields.io/badge/WooCommerce-09131B?style=flat-square&color=95E064" height="26"/> <img src="https://img.shields.io/badge/ClickFunnels-09131B?style=flat-square&color=95E064" height="26"/> <img src="https://img.shields.io/badge/Mailgun-09131B?style=flat-square&color=95E064" height="26"/>
+<img src="icons/shopify.svg" width="64" height="64"/> <img src="icons/woocommerce.svg" width="64" height="64"/>
 <br/><br/>
 
 <sub><b>Voice, Vision & Data</b></sub><br/>
-<img src="https://img.shields.io/badge/Airtable-09131B?style=flat-square&logo=airtable&logoColor=C792EA" height="26"/> <img src="https://img.shields.io/badge/Kaggle-09131B?style=flat-square&logo=kaggle&logoColor=C792EA" height="26"/> <img src="https://img.shields.io/badge/Jupyter-09131B?style=flat-square&logo=jupyter&logoColor=C792EA" height="26"/> <img src="https://img.shields.io/badge/Google_Colab-09131B?style=flat-square&logo=googlecolab&logoColor=C792EA" height="26"/> <img src="https://img.shields.io/badge/Gradio-09131B?style=flat-square&logo=gradio&logoColor=C792EA" height="26"/>
-<br/>
-<img src="https://img.shields.io/badge/Whisper-09131B?style=flat-square&color=C792EA" height="26"/> <img src="https://img.shields.io/badge/Stable_Diffusion-09131B?style=flat-square&color=C792EA" height="26"/> <img src="https://img.shields.io/badge/Llama_%2F_Qwen-09131B?style=flat-square&color=C792EA" height="26"/> <img src="https://img.shields.io/badge/Power_BI-09131B?style=flat-square&color=C792EA" height="26"/>
+<img src="icons/airtable.svg" width="64" height="64"/> <img src="icons/kaggle.svg" width="64" height="64"/> <img src="icons/jupyter.svg" width="64" height="64"/> <img src="icons/googlecolab.svg" width="64" height="64"/> <img src="icons/gradio.svg" width="64" height="64"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<sub><i>Also in the toolbox</i>   LangGraph  ·  Pinecone  ·  Qdrant  ·  Streamlit  ·  Vertex AI  ·  Google Data Studio</sub>
+<sub><i>Also in the toolbox (no dedicated logo available)</i>   OpenAI  ·  Salesforce  ·  Twilio  ·  SendGrid  ·  n8n  ·  Make.com  ·  ManyChat  ·  Bland AI  ·  GoHighLevel  ·  Marketo  ·  Zoho CRM  ·  Pipedrive  ·  Close.com  ·  ClickFunnels  ·  Mailgun  ·  Unsloth  ·  Promptfoo  ·  Streamlit  ·  Whisper  ·  Stable Diffusion  ·  Power BI  ·  Llama  ·  Qwen  ·  GTTS  ·  DALL·E  ·  Pinecone  ·  Qdrant  ·  LangGraph  ·  Vertex AI  ·  Google Data Studio</sub>
 </div>
 
 <!-- ===================== FOOTER ===================== -->
