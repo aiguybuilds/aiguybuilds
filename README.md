@@ -1,6 +1,10 @@
 <!-- ===================== HEADER BANNER ===================== -->
 <div align="center">
 
+<a href="https://github.com/aiguybuilds">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=09131B&height=160&section=header&animation=fadeIn" alt="header" />
+</a>
+
 <!-- ===================== NAME (guaranteed Montserrat) ===================== -->
 <a href="https://github.com/aiguybuilds">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=42&duration=1&pause=999999&color=FF652F&center=true&vCenter=true&repeat=false&width=600&height=60&lines=Syed+Wasif+Shah" alt="Name" />
@@ -115,30 +119,40 @@ AI-powered RAG voice system for intelligent call handling and real-time knowledg
 <div align="center">
 
 <sub><b>AI / LLM Tools</b></sub><br/>
-<img src="https://img.shields.io/badge/Claude-09131B?style=flat-square&color=FF652F" height="26"/> <img src="https://img.shields.io/badge/ChatGPT-09131B?style=flat-square&color=FF652F" height="26"/> <img src="https://img.shields.io/badge/OpenAI_API-09131B?style=flat-square&color=FF652F" height="26"/> <img src="https://img.shields.io/badge/LangChain-09131B?style=flat-square&color=FF652F" height="26"/> <img src="https://img.shields.io/badge/Unsloth-09131B?style=flat-square&color=FF652F" height="26"/> <img src="https://img.shields.io/badge/Promptfoo-09131B?style=flat-square&color=FF652F" height="26"/>
+<img src="https://img.shields.io/badge/Claude-09131B?style=flat-square&logo=claude&logoColor=FF652F" height="26"/> <img src="https://img.shields.io/badge/OpenAI-09131B?style=flat-square&logo=openai&logoColor=FF652F" height="26"/> <img src="https://img.shields.io/badge/Anthropic-09131B?style=flat-square&logo=anthropic&logoColor=FF652F" height="26"/> <img src="https://img.shields.io/badge/LangChain-09131B?style=flat-square&logo=langchain&logoColor=FF652F" height="26"/> <img src="https://img.shields.io/badge/CrewAI-09131B?style=flat-square&logo=crewai&logoColor=FF652F" height="26"/> <img src="https://img.shields.io/badge/Hugging_Face-09131B?style=flat-square&logo=huggingface&logoColor=FF652F" height="26"/>
+<br/>
+<img src="https://img.shields.io/badge/Unsloth-09131B?style=flat-square&color=FF652F" height="26"/> <img src="https://img.shields.io/badge/Promptfoo-09131B?style=flat-square&color=FF652F" height="26"/> <img src="https://img.shields.io/badge/ManyChat-09131B?style=flat-square&color=FF652F" height="26"/> <img src="https://img.shields.io/badge/Bland_AI-09131B?style=flat-square&color=FF652F" height="26"/>
 <br/><br/>
 
 <sub><b>Automation & iPaaS</b></sub><br/>
-<img src="https://img.shields.io/badge/Make.com-09131B?style=flat-square&color=FFE400" height="26"/> <img src="https://img.shields.io/badge/Zapier-09131B?style=flat-square&color=FFE400" height="26"/> <img src="https://img.shields.io/badge/N8N-09131B?style=flat-square&color=FFE400" height="26"/> <img src="https://img.shields.io/badge/GoHighLevel-09131B?style=flat-square&color=FFE400" height="26"/> <img src="https://img.shields.io/badge/Marketo-09131B?style=flat-square&color=FFE400" height="26"/> <img src="https://img.shields.io/badge/ManyChat-09131B?style=flat-square&color=FFE400" height="26"/> <img src="https://img.shields.io/badge/Bland_AI-09131B?style=flat-square&color=FFE400" height="26"/>
+<img src="https://img.shields.io/badge/Zapier-09131B?style=flat-square&logo=zapier&logoColor=FFE400" height="26"/> <img src="https://img.shields.io/badge/Jira-09131B?style=flat-square&logo=jira&logoColor=FFE400" height="26"/>
+<br/>
+<img src="https://img.shields.io/badge/Make.com-09131B?style=flat-square&color=FFE400" height="26"/> <img src="https://img.shields.io/badge/N8N-09131B?style=flat-square&color=FFE400" height="26"/> <img src="https://img.shields.io/badge/GoHighLevel-09131B?style=flat-square&color=FFE400" height="26"/> <img src="https://img.shields.io/badge/Marketo-09131B?style=flat-square&color=FFE400" height="26"/>
 <br/><br/>
 
 <sub><b>CRM & Enterprise</b></sub><br/>
-<img src="https://img.shields.io/badge/Salesforce-09131B?style=flat-square&color=00d4ff" height="26"/> <img src="https://img.shields.io/badge/HubSpot-09131B?style=flat-square&color=00d4ff" height="26"/> <img src="https://img.shields.io/badge/Zoho_CRM-09131B?style=flat-square&color=00d4ff" height="26"/> <img src="https://img.shields.io/badge/Pipedrive-09131B?style=flat-square&color=00d4ff" height="26"/> <img src="https://img.shields.io/badge/Close.com-09131B?style=flat-square&color=00d4ff" height="26"/>
+<img src="https://img.shields.io/badge/Salesforce-09131B?style=flat-square&logo=salesforce&logoColor=00d4ff" height="26"/> <img src="https://img.shields.io/badge/HubSpot-09131B?style=flat-square&logo=hubspot&logoColor=00d4ff" height="26"/> <img src="https://img.shields.io/badge/Confluence-09131B?style=flat-square&logo=confluence&logoColor=00d4ff" height="26"/>
+<br/>
+<img src="https://img.shields.io/badge/Zoho_CRM-09131B?style=flat-square&color=00d4ff" height="26"/> <img src="https://img.shields.io/badge/Pipedrive-09131B?style=flat-square&color=00d4ff" height="26"/> <img src="https://img.shields.io/badge/Close.com-09131B?style=flat-square&color=00d4ff" height="26"/>
 <br/><br/>
 
 <sub><b>E-Commerce & Comms</b></sub><br/>
-<img src="https://img.shields.io/badge/Shopify-09131B?style=flat-square&color=95E064" height="26"/> <img src="https://img.shields.io/badge/WooCommerce-09131B?style=flat-square&color=95E064" height="26"/> <img src="https://img.shields.io/badge/ClickFunnels-09131B?style=flat-square&color=95E064" height="26"/> <img src="https://img.shields.io/badge/Twilio-09131B?style=flat-square&color=95E064" height="26"/> <img src="https://img.shields.io/badge/Mailgun-09131B?style=flat-square&color=95E064" height="26"/> <img src="https://img.shields.io/badge/SendGrid-09131B?style=flat-square&color=95E064" height="26"/>
+<img src="https://img.shields.io/badge/Shopify-09131B?style=flat-square&logo=shopify&logoColor=95E064" height="26"/> <img src="https://img.shields.io/badge/Twilio-09131B?style=flat-square&logo=twilio&logoColor=95E064" height="26"/> <img src="https://img.shields.io/badge/SendGrid-09131B?style=flat-square&logo=sendgrid&logoColor=95E064" height="26"/>
+<br/>
+<img src="https://img.shields.io/badge/WooCommerce-09131B?style=flat-square&color=95E064" height="26"/> <img src="https://img.shields.io/badge/ClickFunnels-09131B?style=flat-square&color=95E064" height="26"/> <img src="https://img.shields.io/badge/Mailgun-09131B?style=flat-square&color=95E064" height="26"/>
 <br/><br/>
 
 <sub><b>Voice, Vision & Data</b></sub><br/>
-<img src="https://img.shields.io/badge/Whisper-09131B?style=flat-square&color=C792EA" height="26"/> <img src="https://img.shields.io/badge/Stable_Diffusion-09131B?style=flat-square&color=C792EA" height="26"/> <img src="https://img.shields.io/badge/Llama_%2F_Qwen-09131B?style=flat-square&color=C792EA" height="26"/> <img src="https://img.shields.io/badge/Airtable-09131B?style=flat-square&color=C792EA" height="26"/> <img src="https://img.shields.io/badge/Power_BI-09131B?style=flat-square&color=C792EA" height="26"/> <img src="https://img.shields.io/badge/Kaggle-09131B?style=flat-square&color=C792EA" height="26"/>
+<img src="https://img.shields.io/badge/Airtable-09131B?style=flat-square&logo=airtable&logoColor=C792EA" height="26"/> <img src="https://img.shields.io/badge/Kaggle-09131B?style=flat-square&logo=kaggle&logoColor=C792EA" height="26"/> <img src="https://img.shields.io/badge/Jupyter-09131B?style=flat-square&logo=jupyter&logoColor=C792EA" height="26"/> <img src="https://img.shields.io/badge/Google_Colab-09131B?style=flat-square&logo=googlecolab&logoColor=C792EA" height="26"/> <img src="https://img.shields.io/badge/Gradio-09131B?style=flat-square&logo=gradio&logoColor=C792EA" height="26"/>
+<br/>
+<img src="https://img.shields.io/badge/Whisper-09131B?style=flat-square&color=C792EA" height="26"/> <img src="https://img.shields.io/badge/Stable_Diffusion-09131B?style=flat-square&color=C792EA" height="26"/> <img src="https://img.shields.io/badge/Llama_%2F_Qwen-09131B?style=flat-square&color=C792EA" height="26"/> <img src="https://img.shields.io/badge/Power_BI-09131B?style=flat-square&color=C792EA" height="26"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<sub><i>Also in the toolbox</i>   LangGraph  ·  CrewAI  ·  Anthropic Claude API  ·  Pinecone  ·  Qdrant  ·  Streamlit  ·  Gradio  ·  Vertex AI</sub>
+<sub><i>Also in the toolbox</i>   LangGraph  ·  Pinecone  ·  Qdrant  ·  Streamlit  ·  Vertex AI  ·  Google Data Studio</sub>
 </div>
 
 <!-- ===================== FOOTER ===================== -->
