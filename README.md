@@ -84,7 +84,7 @@ AI-powered RAG voice system for intelligent call handling and real-time knowledg
 
 <table>
 <tr>
-<td><b>Languages</b><br/><sub>( mostly Python 🐍 )</sub></td>
+<td><b>Languages</b><br/></td>
 <td><img src="https://skillicons.dev/icons?i=python,js,ts,html,css,nodejs&theme=dark&perline=6" alt="languages" /></td>
 </tr>
 <tr>
@@ -107,7 +107,6 @@ AI-powered RAG voice system for intelligent call handling and real-time knowledg
 <td><b>Design & Productivity</b></td>
 <td><img src="https://skillicons.dev/icons?i=figma,notion&theme=dark&perline=2" alt="design" /></td>
 </tr>
-<tr><td colspan="2"><br/></td></tr>
 <tr>
 <td><b>AI / LLM Tools</b></td>
 <td><img src="icons/claude.svg" width="48" height="48"/> <img src="icons/anthropic.svg" width="48" height="48"/> <img src="icons/langchain.svg" width="48" height="48"/> <img src="icons/crewai.svg" width="48" height="48"/> <img src="icons/huggingface.svg" width="48" height="48"/></td>
