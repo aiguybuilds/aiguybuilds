@@ -86,50 +86,45 @@ AI-powered RAG voice system for intelligent call handling and real-time knowledg
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠 Engineering Stack
 
-<div align="center">
-
-**Languages**   <sub>( mostly Python 🐍 )</sub>
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,html,css,nodejs&theme=dark&perline=6" alt="languages" />
-
-**AI / ML Frameworks**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,huggingface&theme=dark&perline=3" alt="ai-ml" />
-
-**Backend & APIs**
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,graphql&theme=dark&perline=3" alt="backend" />
-
-**Cloud, Infra & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github&theme=dark&perline=7" alt="cloud" />
-
-**Databases & Storage**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark&perline=4" alt="databases" />
-
-**Design & Productivity**
-
-<img src="https://skillicons.dev/icons?i=figma,notion&theme=dark&perline=2" alt="design" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<sub><b>AI / LLM Tools</b></sub><br/>
-<img src="icons/claude.svg" width="48" height="50"/> <img src="icons/anthropic.svg" width="48" height="50"/> <img src="icons/langchain.svg" width="48" height="50"/> <img src="icons/crewai.svg" width="48" height="50"/> <img src="icons/huggingface.svg" width="48" height="50"/>
-<br/><br/>
-
-<sub><b>Automation & CRM</b></sub><br/>
-<img src="icons/zapier.svg" width="48" height="50"/> <img src="icons/jira.svg" width="48" height="50"/> <img src="icons/hubspot.svg" width="48" height="50"/> <img src="icons/confluence.svg" width="48" height="50"/>
-<br/><br/>
-
-<sub><b>Voice, Vision & Data</b></sub><br/>
-<img src="icons/airtable.svg" width="48" height="50"/> <img src="icons/kaggle.svg" width="48" height="50"/> <img src="icons/jupyter.svg" width="48" height="50"/> <img src="icons/googlecolab.svg" width="48" height="50"/> <img src="icons/gradio.svg" width="48" height="50"/>
-
-</div>
+<table>
+<tr>
+<td><b>Languages</b><br/><sub>( mostly Python 🐍 )</sub></td>
+<td><img src="https://skillicons.dev/icons?i=python,js,ts,html,css,nodejs&theme=dark&perline=6" alt="languages" /></td>
+</tr>
+<tr>
+<td><b>AI / ML Frameworks</b></td>
+<td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,huggingface&theme=dark&perline=3" alt="ai-ml" /></td>
+</tr>
+<tr>
+<td><b>Backend & APIs</b></td>
+<td><img src="https://skillicons.dev/icons?i=fastapi,flask,graphql,nodejs,express,django,go&theme=dark&perline=7" alt="backend" /></td>
+</tr>
+<tr>
+<td><b>Cloud, Infra & DevOps</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github&theme=dark&perline=7" alt="cloud" /></td>
+</tr>
+<tr>
+<td><b>Databases & Storage</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark&perline=4" alt="databases" /></td>
+</tr>
+<tr>
+<td><b>Design & Productivity</b></td>
+<td><img src="https://skillicons.dev/icons?i=figma,notion&theme=dark&perline=2" alt="design" /></td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td><b>AI / LLM Tools</b></td>
+<td><img src="/claude.svg" width="48" height="48"/> <img src="/anthropic.svg" width="48" height="48"/> <img src="/langchain.svg" width="48" height="48"/> <img src="/crewai.svg" width="48" height="48"/> <img src="/huggingface.svg" width="48" height="48"/></td>
+</tr>
+<tr>
+<td><b>Automation & CRM</b></td>
+<td><img src="/zapier.svg" width="48" height="48"/> <img src="/jira.svg" width="48" height="48"/> <img src="/hubspot.svg" width="48" height="48"/> <img src="/confluence.svg" width="48" height="48"/></td>
+</tr>
+<tr>
+<td><b>Voice, Vision & Data</b></td>
+<td><img src="/airtable.svg" width="48" height="48"/> <img src="/kaggle.svg" width="48" height="48"/> <img src="/jupyter.svg" width="48" height="48"/> <img src="/googlecolab.svg" width="48" height="48"/> <img src="/gradio.svg" width="48" height="48"/></td>
+</tr>
+</table>
 
 <br/>
 
