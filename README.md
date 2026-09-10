@@ -134,5 +134,5 @@ AI-powered RAG voice system for intelligent call handling and real-time knowledg
 </table>
 
 <div align="center">
-<sub>   OpenAI  ·  Salesforce  ·  Twilio  ·  SendGrid  ·  ManyChat  ·  Bland AI  ·  Unsloth  ·  Promptfoo  ·  Whisper  ·  Stable Diffusion  ·  Power BI  ·  Llama  ·  GTTS  ·  DALL·E  ·  Pinecone  ·  Vertex AI  ·  Google Data Studio</sub>
+<sub>   OpenAI  ·  Salesforce  ·  Twilio  ·  ManyChat  ·  Bland AI  ·  Unsloth  ·  Promptfoo  ·  Whisper  ·  Stable Diffusion  ·  Power BI  ·  Llama  ·  GTTS  ·  DALL·E  ·  Pinecone  ·  Vertex AI  ·  Google Data Studio</sub>
 </div>
